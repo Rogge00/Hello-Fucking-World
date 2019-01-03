@@ -1,2 +1,2 @@
-# Hello-Fucking-World
-Is fucking Empty
+# Hello-World
+Is Empty
